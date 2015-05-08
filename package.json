@@ -1,0 +1,17 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "simple",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^0.20.0",
+    "koa-router": "^4.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "iojs index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
